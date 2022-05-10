@@ -1,3 +1,20 @@
+[NewsApp] is a current News application made with [Reactjs](https://reactjs.org/).
+
+#Preview
+
+<img src="https://github.com/aayushjha5/newsapp/blob/master/image.png" width=1270 height=480 />
+
+ 
+
+## Features/Components
+- Uses React Js
+- Provide Different News based on Endpoints
+- Uses NewsAPI
+- Have Loading bar feature (like Youtube)
+- Card Link will redirect to respective news source.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
